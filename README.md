@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emircan</h1>
 <h3 align="center">I am a passionate web developer.</h3>
 
+- 🔭 I’m currently working on **react.js**
+
 - 🌱 I’m currently learning **Vue.js, TypeScript, React Native**
 
 - 💬 Ask me about **react**
