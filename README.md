@@ -1,4 +1,4 @@
-### Hi i am Frontend Web Developer 👋
+### Hi i am Emircan 👋
 
 
 - 🔭 I’m currently working on HTML/CSS/JAVASCRİPT/REACT
